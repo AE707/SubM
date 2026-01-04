@@ -243,7 +243,7 @@ This project was developed as a **Master's thesis in Mechanical Engineering** (�
 - Deterministic state machines
 - Spatial data structures (occupancy grids)
 
-**For Dream Games / Game Studios:**
+**Relevant for Game Development & Multiplayer Systems:**
 - **Network Architecture**: UART communication ≈ reliable UDP
 - **Physics Systems**: Motor control loops ≈ game physics tick
 - **State Synchronization**: Sensor data aggregation ≈ player state replication
