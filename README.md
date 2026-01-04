@@ -29,6 +29,15 @@ SubM is a production-ready **Autonomous Underwater Vehicle (AUV)** control syste
 - ✅ **Production code quality** - RAII patterns, error handling, type safety
 - ✅ **Scalable architecture** - Proven in marine robotics, applicable to any multi-controller system
 
+## Core Engineering Skills Demonstrated
+- Object-Oriented C++ Design
+- Distributed System Architecture
+- State Machines & Deterministic Logic
+- Low-Latency Communication
+- Real-Time System Constraints
+- Modular & Scalable Codebases
+
+
 ### 🎮 Relevant for Game Development
 
 While SubM is an underwater robotics project, the **core engineering principles directly translate to game engine development and multiplayer systems**:
@@ -325,8 +334,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**AE707** - Mechanical Engineering Student, ENIG  
+**AE707** - Computer Engineering (MSc), ENIG  
 Specializations: Embedded Systems, Robotics, Control Theory
+
 
 **Connect:**
 - 💼 [LinkedIn](#) 
